@@ -2,7 +2,7 @@
 - 👀 I’m actually a pre-veterinary, aslo interested in coding.
 - 🌱 I’m currently learning knowledge of Front-end programming
 - 💞️ I’m looking to build my blog site and feel the joy of programming.
-- 📫 WX: ch_Jwzzz   QQ:2095392125   Email:hejiaweiwork@gmail.com
+- 📫 WX: ch_Jwzzz   QQ: 2095392125   Email: hejiaweiwork@gmail.com
       
       
 
